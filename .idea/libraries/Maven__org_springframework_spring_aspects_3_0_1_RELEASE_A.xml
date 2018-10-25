@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-aspects:3.0.1.RELEASE-A">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.3.9/repository/org/springframework/spring-aspects/3.0.1.RELEASE-A/spring-aspects-3.0.1.RELEASE-A.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.3.9/repository/org/springframework/spring-aspects/3.0.1.RELEASE-A/spring-aspects-3.0.1.RELEASE-A-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.3.9/repository/org/springframework/spring-aspects/3.0.1.RELEASE-A/spring-aspects-3.0.1.RELEASE-A-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
